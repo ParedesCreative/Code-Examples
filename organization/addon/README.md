@@ -1,7 +1,7 @@
 # Addon
 
 > Statamic Addon with built-in CP Menu Item
-> Created by Victor Paredes (https://vitorpared.es)
+> Created by Victor Paredes (https://victorpared.es)
 
 ## Features
 
