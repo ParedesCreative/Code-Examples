@@ -1,0 +1,19 @@
+{
+    "name": "organization/addon",
+    "autoload": {
+        "psr-4": {
+            "Organization\\Addon\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Addon",
+            "description": "Addon addon"
+        },
+        "laravel": {
+            "providers": [
+                "Organization\\Addon\\ServiceProvider"
+            ]
+        }
+    }
+}
